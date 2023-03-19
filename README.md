@@ -1,6 +1,6 @@
-# Atlas
+# ATLAS
 ## About
-Atlas is a Blogging app made using Flutter and Firebase. Users can register on the app, start creating blog posts about almost anything that comes to their mind. Users can also search for other people present on the app, and the content that they have posted. 
+ATLAS is a Blogging app made using Flutter and Firebase. Users can register on the app, start creating blog posts about almost anything that comes to their mind. Users can also search for other people present on the app, and the content that they have posted. 
 
 ## Snapshots of the application
 
